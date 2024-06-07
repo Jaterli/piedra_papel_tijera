@@ -1,4 +1,4 @@
-<h1>Juego de Piedra, Papel, Tijera en Java</h1>
+<h1>Juego de Piedra, Papel :newspaper:, Tijera :scissors: en Java</h1>
 <p>
 Este es un simple script en Java que implementa el popular juego Piedra, Papel, Tijera, donde el usuario puede enfrentarse a la computadora en una serie de rondas.
 Cómo Jugar:
@@ -24,7 +24,7 @@ Cómo Jugar:
 <p>
 Contribuciones
 </p>
-<p>¡Las contribuciones son bienvenidas! Siéntete libre de hacer fork de este repositorio, implementar nuevas características, corregir errores o mejorar el código existente. Una vez que estés listo, envía una solicitud de extracción y estaré encantado de revisarla.
+<p>¡Las contribuciones son bienvenidas! :smile: Siéntete libre de hacer fork de este repositorio, implementar nuevas características, corregir errores o mejorar el código existente. Una vez que estés listo, envía una solicitud de extracción y estaré encantado de revisarla.
 Licencia
 </p>
 <p>
